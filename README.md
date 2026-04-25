@@ -1,4 +1,4 @@
-# Hi, I'm Taha.
+# 😁 Hi, I'm Taha.
 
 Self-taught full stack engineer in progress. 17. Based in Morocco.
 
