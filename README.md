@@ -21,7 +21,7 @@ Long-term target: senior full stack engineering at a global company.
 - [x] Month 1 &nbsp;&nbsp;&nbsp;&nbsp;— HTML & CSS (Semantic structure, Flexbox, Grid, Responsive Design)
 - [x] Months 2–3 — JavaScript (DOM, Async, Fetch, Projects: Calculator, Quiz App, Weather App)
 - [x] Month 4 &nbsp;&nbsp;&nbsp;&nbsp;— Git & GitHub &nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] Month 5 &nbsp;&nbsp;&nbsp;&nbsp;— Advanced JS + NPM ← currently here
+- [x] Month 5 &nbsp;&nbsp;&nbsp;&nbsp;— Advanced JS + NPM ← currently here
 - [ ] Months 6–7 — React (Vite)
 - [ ] Month 8 &nbsp;&nbsp;&nbsp;&nbsp;— Node.js + Express
 - [ ] Month 9 &nbsp;&nbsp;&nbsp;&nbsp;— MongoDB
