@@ -12,7 +12,9 @@ My GitHub is my resume — and I'm building it deliberately.
 A professional-level engineering career before adulthood.  
 Remote. International. No shortcuts.
 
-Long-term target: senior full stack engineering at a global company.
+Target Focus: AI Engineer
+
+Long-Term Vision: Senior Full-Stack Engineer at a global company
 
 ---
 
