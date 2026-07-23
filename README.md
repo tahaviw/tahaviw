@@ -51,7 +51,7 @@ consistency, structured progression, and no tolerance for shortcuts.
 ## Contact
 
 Open to feedback, collaboration, and mentorship.  
-If you're building something serious — reach out.
+If you're building something serious , reach out.
 
 ## Instagram: instagram.com/tahaviw
 ## Email: tahaviwtahtouhihihi@gmail.com
