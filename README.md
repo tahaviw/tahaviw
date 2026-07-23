@@ -2,7 +2,7 @@
 
 Self-taught full stack engineer in progress. 17. Based in Morocco.
 
-I don't have a degree. I don't have certifications.  
+I don't have a degree yet.  
 My GitHub is my resume — and I'm building it deliberately.
 
 ---
