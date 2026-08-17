@@ -1,7 +1,59 @@
 # 😁 Hi, I'm Taha.
 
 # 💫 About Me:
-Self-taught full stack engineer in progress. 17. Based in Morocco.<br><br>I don't have a degree yet.  <br>My GitHub is my resume — and I'm building it deliberately.<br><br>---<br><br>## What I'm Building Toward<br><br>A professional-level engineering career before adulthood.  <br>Remote. International. No shortcuts.<br><br>Target Focus: AI Engineer<br><br>Long-Term Vision: Senior Full-Stack Engineer at a global company<br><br>---<br><br>## Current Roadmap : Year 1<br><br>- [x] Month 1 &nbsp;&nbsp;&nbsp;&nbsp;: HTML & CSS (Semantic structure, Flexbox, Grid, Responsive Design)<br>- [x] Months 2–3 : JavaScript (DOM, Async, Fetch, Projects: Calculator, Quiz App, Weather App)<br>- [x] Month 4 &nbsp;&nbsp;&nbsp;&nbsp;: Git & GitHub &nbsp;&nbsp;&nbsp;&nbsp;<br>- [x] Month 5 &nbsp;&nbsp;&nbsp;&nbsp;: Advanced JS + NPM<br>- [ ] Months 6–7 : React (Vite) ← currently here<br>- [ ] Month 8 &nbsp;&nbsp;&nbsp;&nbsp;: Node.js + Express<br>- [ ] Month 9 &nbsp;&nbsp;&nbsp;&nbsp;: MongoDB<br>- [ ] Month 10 &nbsp;&nbsp;&nbsp;: Full Stack + Linux + Networking<br>- [ ] Months 11–12 : Portfolio, CV, Interview Preparation<br><br>---<br><br>## How I Work<br><br>- I build projects to understand systems, not to collect repositories.<br>- I prioritize fundamentals over frameworks.<br>- Every project I push here is something I can explain in full.<br><br>---<br><br>## Outside of Code<br><br>Amateur Muay Thai fighter.  <br>The same principles that apply in training apply in engineering:  <br>consistency, structured progression, and no tolerance for shortcuts.<br><br>---<br><br>## Contact<br><br>Open to feedback, collaboration, and mentorship.  <br>If you're building something serious , reach out.
+
+Self-taught full stack engineer in progress. 17. Based in Morocco.
+
+I don't have a degree yet.  
+My GitHub is my resume — and I'm building it deliberately.
+
+---
+
+## What I'm Building Toward
+
+A professional-level engineering career before adulthood.  
+Remote. International. No shortcuts.
+
+Target Focus: AI Engineer
+
+Long-Term Vision: Senior Full-Stack Engineer at a global company
+
+---
+
+## Current Roadmap : Year 1
+
+- [x] Month 1 &nbsp;&nbsp;&nbsp;&nbsp;: HTML & CSS (Semantic structure, Flexbox, Grid, Responsive Design)
+- [x] Months 2–3 : JavaScript (DOM, Async, Fetch, Projects: Calculator, Quiz App, Weather App)
+- [x] Month 4 &nbsp;&nbsp;&nbsp;&nbsp;: Git & GitHub &nbsp;&nbsp;&nbsp;&nbsp;
+- [x] Month 5 &nbsp;&nbsp;&nbsp;&nbsp;: Advanced JS + NPM
+- [ ] Months 6–7 : React (Vite) ← currently here
+- [ ] Month 8 &nbsp;&nbsp;&nbsp;&nbsp;: Node.js + Express
+- [ ] Month 9 &nbsp;&nbsp;&nbsp;&nbsp;: MongoDB
+- [ ] Month 10 &nbsp;&nbsp;&nbsp;: Full Stack + Linux + Networking
+- [ ] Months 11–12 : Portfolio, CV, Interview Preparation
+
+---
+
+## How I Work
+
+- I build projects to understand systems, not to collect repositories.
+- I prioritize fundamentals over frameworks.
+- Every project I push here is something I can explain in full.
+
+---
+
+## Outside of Code
+
+Amateur Muay Thai fighter.  
+The same principles that apply in training apply in engineering:  
+consistency, structured progression, and no tolerance for shortcuts.
+
+---
+
+## Contact
+
+Open to feedback, collaboration, and mentorship.  
+If you're building something serious , reach out.
 
 
 ## 🌐 Socials:
