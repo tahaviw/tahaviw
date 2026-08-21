@@ -1,11 +1,11 @@
 # 😁 Hi, I'm Taha.
 
-# 💫 About Me:
+# About Me:
 
 Self-taught full stack engineer in progress. 17. Based in Morocco.
 
 I don't have a degree yet.  
-My GitHub is my resume — and I'm building it deliberately.
+My GitHub is my resume and I'm building it deliberately.
 
 ---
 
@@ -16,7 +16,7 @@ Remote. International. No shortcuts.
 
 Target Focus: AI Engineer
 
-Long-Term Vision: Senior Full-Stack Engineer at a global company
+Long-Term Vision: Senior Full-Stack Engineer, AI engineer
 
 ---
 
@@ -83,5 +83,3 @@ If you're building something serious , reach out.
 
 ---
 [![](https://komarev.com/ghpvc/?username=tahaviw&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
