@@ -26,7 +26,7 @@ Long-Term Vision: Senior Full-Stack Engineer, AI engineer
 - [x] Months 2–3 : JavaScript (DOM, Async, Fetch, Projects: Calculator, Quiz App, Weather App)
 - [x] Month 4 &nbsp;&nbsp;&nbsp;&nbsp;: Git & GitHub &nbsp;&nbsp;&nbsp;&nbsp;
 - [x] Month 5 &nbsp;&nbsp;&nbsp;&nbsp;: Advanced JS + NPM
-- [ ] Months 6–7 : React (Vite) ← currently here
+- [x] Months 6–7 : React (Vite) ← currently here
 - [ ] Month 8 &nbsp;&nbsp;&nbsp;&nbsp;: Node.js + Express
 - [ ] Month 9 &nbsp;&nbsp;&nbsp;&nbsp;: MongoDB
 - [ ] Month 10 &nbsp;&nbsp;&nbsp;: Full Stack + Linux + Networking
