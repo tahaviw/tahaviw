@@ -16,7 +16,7 @@ Remote. International. No shortcuts.
 
 Target Focus: AI Engineer
 
-Long-Term Vision: Senior Full-Stack Engineer, AI engineer
+Long-Term Vision: Full-Stack Engineer, AI engineer
 
 ---
 
