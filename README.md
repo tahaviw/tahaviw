@@ -42,15 +42,14 @@ A desktop environment that runs entirely in your browser wallpaper, draggable wi
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tahaviw&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tahaviw&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tahaviw&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=tahaviw&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tahaviw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaviw&layout=compact&theme=null" alt="Most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaviw&theme=null" alt="GitHub Streak" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahaviw&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
