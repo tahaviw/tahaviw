@@ -40,7 +40,7 @@ A desktop environment that runs entirely in your browser wallpaper, draggable wi
 
 [View Project](https://webos-tahaviw.netlify.app/)
 
-<img src="https://github.com/tahaviw/Web-Os/raw/main/browser-app-check.png" alt="Image of WebOs" width="1000" height="600" border-radius="8">
+<img src="https://github.com/tahaviw/Web-Os/raw/main/browser-app-check.png" alt="Image of WebOs" width="1000" height="600" style="border-radius: 12px;">
 
 ---
 
