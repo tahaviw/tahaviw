@@ -1,7 +1,7 @@
 # Hello 👋, I'm Taha
-### A professional-level engineering career before adulthood. Remote. International. No shortcuts.
+### A professional level engineering career before adulthood. Remote. International. No shortcuts.
 ### Target Focus: AI Engineer
-### Long-Term Vision: Full-Stack Engineer, AI engineer
+### Long-Term Vision: Full Stack Engineer, AI engineer
 
 Self-taught full stack engineer in progress. 17. Based in Morocco.
 
